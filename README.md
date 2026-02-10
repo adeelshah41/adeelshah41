@@ -16,7 +16,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=adeelshah41&style=flat-square&color=blue" alt=""/>
 </div>
-<h3 align="center">2nd Year Computer Engineering Student</h3>
+<h3 align="center">Computer Systems Engineer</h3>
 
   - :zap: I try to work on new projects and learn about new tools.
 - :telescope: Experienced in Python programming <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
