@@ -23,7 +23,8 @@
 
 - 🌱 I’m currently learning **pandas**
 
-- 📫 How to reach me <a sadeel823@gmail.com>
+- 📫 How to reach me <a href="mailto:sadeel823@gmail.com?subject=Hello&body=Type%20here">Send Email</a>
+
   <img src="https://img.shields.io/badge/Adeel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
