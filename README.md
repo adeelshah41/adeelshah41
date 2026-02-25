@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **pandas**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/muhammad-adeel-shah/">
+- 📫 How to reach me <a href="sadeel823@gmail.com">
   <img src="https://img.shields.io/badge/Adeel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
