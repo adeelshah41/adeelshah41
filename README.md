@@ -11,8 +11,8 @@
 ## 👋 About Me
 
 ```python
-class AdeelShah:
-    name       = "Muhammad Adeel Shah"
+class MuhammadAdeel:
+    name       = "Muhammad Adeel"
     role       = "Computer Systems Engineer"
     location   = "Pakistan 🇵🇰"
     languages  = ["Python", "C++", "Java", "JavaScript"]
@@ -22,7 +22,7 @@ class AdeelShah:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together.")
 
-me = AdeelShah()
+me = MuhammadAdeel()
 me.say_hi()
 ```
 
