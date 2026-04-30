@@ -145,7 +145,6 @@ me.say_hi()
 - 🤖 Working with **LangGraph, Ollama, and Oracle 26AI** for production AI pipelines
 - 🔍 Exploring **LLM evaluation frameworks** (RAGAS, DeepEval) and advanced prompt engineering
 - 🤝 Open to collaborating on **AI/ML open-source projects**
-- ⚡ Fun fact: I debug AI hallucinations faster with music on 🎧
 
 ---
 
